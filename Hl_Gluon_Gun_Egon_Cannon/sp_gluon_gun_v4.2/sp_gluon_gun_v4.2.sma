@@ -5,7 +5,7 @@
  *   For Zombie Plague 4.3+ (Meat Mod)
  *
  *   Version: 4.1 - QA Bug-Fix Pass
- *   Authors: SP-TEAM: sp_half/sp_saad
+ *   Authors: SP-TEAM: sp-rubio
  *
  *   Inspired by the Gluon Gun (Egon) from Half-Life: Opposing Force.
  *   A rare, balanced beam weapon for emergency zombie defense.
