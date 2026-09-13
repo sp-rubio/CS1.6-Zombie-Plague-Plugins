@@ -28,7 +28,7 @@
 
 #define PLUGIN "[ZP] Extra MP5 Grenade Launcher"
 #define VERSION "1.0"
-#define AUTHOR "SP-TEAM (sp-saad & sp-half)"
+#define AUTHOR "SP-TEAM sp-rubio"
 
 #define RemoveEntity(%1) engfunc(EngFunc_RemoveEntity, %1)
 
