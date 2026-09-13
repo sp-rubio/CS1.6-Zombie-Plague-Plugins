@@ -95,7 +95,7 @@
 
 #define PLUGIN_NAME    "[ZP] SP Gluon Gun v4"
 #define PLUGIN_VERSION "4.1"
-#define PLUGIN_AUTHOR  "SP-TEAM: sp_half/sp_saad"
+#define PLUGIN_AUTHOR  "SP-TEAM: sp-rubio"
 
 #define MAX_PLAYERS 32
 
